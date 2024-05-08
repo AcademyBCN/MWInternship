@@ -1,0 +1,25 @@
+.headerContainer {
+    align-items: center;
+    justify-content: center;
+    height: 100px;
+    width: 100%;
+    color: #FFDF00;
+    font-family: starJedi;
+    font-size: 24px;
+    background-color: rgba(1, 22, 76, 0.75);;
+    flex-direction: row;
+    display: flex;
+}
+
+.titleContainer {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    height: 100px;
+    width: 90%;
+}
+
+.FSPLogo {
+    width: 100px;
+    height: 100px;
+}
