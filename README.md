@@ -14,11 +14,11 @@ In this company we are big fans of Star Wars, and as good fans, we are very inte
 ### Tasks
 Please complete the following tasks:
 
-•	Create a React App that calls the Star Wars API and retrieves all the information of the films.
+-	Create a React App that calls the Star Wars API and retrieves all the information of the films.
 [Here](https://swapi.py4e.com/documentation#films) you have the endpoint that returns all the films.
-•	Print all the information on a table.
+-	Print all the information on a table.
 Note: You just need to print the title of the film, the opening crawl, the director, the producer, the release date and the characters.
-•	Style the page following the example we have provided at the end of this section.
+-	Style the page following the example we have provided at the end of this section.
 
 ### Additional tasks
 Once the mandatory tasks are completed, consider the following enhancements:
